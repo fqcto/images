@@ -20,7 +20,7 @@ A：`jsDelivr`是国外的一家优秀的公共 CDN 服务提供商，该平台�
 2. vscode下载插件vs-picgo
 3. 配置github
 
-![20210606000138](https://cdn.jsdelivr.net/gh/wu529778790/image/blog/20210606000138.png)
+![332257_1631089311309](https://resource.oss.yatiku.com/front/202109/png/332257_1631089311309.png)
 
 4. 配置文档
  
